@@ -77,14 +77,3 @@ Airline-Passenger-Satisfaction/
 └── README.md
 ```
 
-## Contributors
-- Shagamreddy Sairam Reddy
-- Dispa Krishna Priya Gude
-- Boddapati Thilak Chowdary
-- Manasa Gubbala
-- Suhas Bitragunta
-- Sanjay Kumar Vadla
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
